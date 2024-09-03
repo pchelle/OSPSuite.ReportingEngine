@@ -1,5 +1,5 @@
-pandoc: 2.19.2
-pkgdown: 2.0.7
+pandoc: 3.1.11
+pkgdown: 2.1.0
 pkgdown_sha: ~
 articles:
   add-title-page: add-title-page.html
@@ -14,8 +14,7 @@ articles:
   qualification-workflow: qualification-workflow.html
   sensitivity-analysis: sensitivity-analysis.html
   word-report: word-report.html
-last_built: 2024-01-30T11:39Z
+last_built: 2024-09-03T11:52Z
 urls:
   reference: https://www.open-systems-pharmacology.org/OSPSuite.ReportingEngine/reference
   article: https://www.open-systems-pharmacology.org/OSPSuite.ReportingEngine/articles
-
